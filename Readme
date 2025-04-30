@@ -4,8 +4,7 @@
  Detailed Procedure:
  1. Integrate open-source LLMs such as LLama or Gemma from Ollama
  2. Implement Natural Language Processing (NLP) to allow queries. You can
- use
- LLamaIndex or Langchain
+ use LLamaIndex or Langchain
  3.use streamlit for frontend
  4. Create a frontend to upload document files and interact with the
  chatbot, just like
